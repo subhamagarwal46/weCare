@@ -45,7 +45,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 ## Install
 
     $ git clone git@github.com:subhamagarwal46/weCare.git
-    $ cd bonStay
+    $ cd weCare
     $ npm install
 
 ## Running the project
